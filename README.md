@@ -19,7 +19,7 @@
 
 <!-- - 📝 I regularly write articles on [blogs](blogs) -->
 
-- 💬 Ask me about **Web developpement and NLP ,**
+- 💬 Ask me about **Software conception, Web developpement and NLP ,**
 
 - 📫 How to reach me **lamari.dev@gmail.com**
 
