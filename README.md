@@ -1,9 +1,7 @@
 <p align="center"><img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1726704000&v=beta&t=TAoRP52qZd1AVkT2937x6xSar9Nzc-T9y2UJCe3en54" /></p>
 <h1 align="center">Hi 👋, I'm Lamari mohamed amine</h1>
 <h3 align="center">A passionate web developer from Algeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamaridev&label=Profile%20views&color=0e75b6&style=flat" alt="lamaridev"/> </p>
-
+<br/>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <br/> -->
 
