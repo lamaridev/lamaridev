@@ -25,6 +25,8 @@
 
 - 👨‍💻 My last project **https://politique-work.vercel.app/**
 
+- 🌐 Other project : **https://yalwas-front-rslq.vercel.app/**
+
 
 <!-- - 📄 Know about my experiences [cv](cv) -->
 
