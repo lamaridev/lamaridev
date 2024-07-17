@@ -23,6 +23,9 @@
 
 - 📫 How to reach me **lamari.dev@gmail.com**
 
+- 👨‍💻 My last project **https://politique-work.vercel.app/**
+
+
 <!-- - 📄 Know about my experiences [cv](cv) -->
 
 
