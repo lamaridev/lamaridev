@@ -1,4 +1,4 @@
-<p align="center"><img width="400" src="https://img.freepik.com/vecteurs-premium/homme-est-assis-bureau-ordinateur-portable-plante-arriere-plan_1013341-201141.jpg?w=740" /></p>
+<p align="center"><img width="200" src="https://img.freepik.com/vecteurs-premium/homme-est-assis-bureau-ordinateur-portable-plante-arriere-plan_1013341-201141.jpg?w=740" /></p>
 <h1 align="center">Hi 👋, I'm Lamari mohamed amine</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
 <br/>
